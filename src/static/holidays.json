@@ -1,0 +1,51 @@
+[
+  {
+    "holiday_id": 1,
+    "company_id": 1,
+    "name": "Republic Day",
+    "date": "2024-01-26",
+    "is_optional": false
+  },
+  {
+    "holiday_id": 2,
+    "company_id": 1,
+    "name": "Holi",
+    "date": "2024-03-25",
+    "is_optional": false
+  },
+  {
+    "holiday_id": 3,
+    "company_id": 1,
+    "name": "Good Friday",
+    "date": "2024-03-29",
+    "is_optional": true
+  },
+  {
+    "holiday_id": 4,
+    "company_id": 1,
+    "name": "Independence Day",
+    "date": "2024-08-15",
+    "is_optional": false
+  },
+  {
+    "holiday_id": 5,
+    "company_id": 1,
+    "name": "Gandhi Jayanti",
+    "date": "2024-10-02",
+    "is_optional": false
+  },
+  {
+    "holiday_id": 6,
+    "company_id": 1,
+    "name": "Diwali",
+    "date": "2024-11-01",
+    "is_optional": false
+  },
+  {
+    "holiday_id": 7,
+    "company_id": 1,
+    "name": "Christmas",
+    "date": "2024-12-25",
+    "is_optional": false
+  }
+]

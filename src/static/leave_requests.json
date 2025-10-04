@@ -1,0 +1,50 @@
+[
+  {
+    "leave_id": 1,
+    "emp_id": 4,
+    "leave_type_id": 1,
+    "start_date": "2024-10-15",
+    "end_date": "2024-10-16",
+    "days": 2,
+    "reason": "Personal work",
+    "status": "pending",
+    "approved_by": null,
+    "approved_at": null
+  },
+  {
+    "leave_id": 2,
+    "emp_id": 5,
+    "leave_type_id": 2,
+    "start_date": "2024-09-20",
+    "end_date": "2024-09-21",
+    "days": 2,
+    "reason": "Fever and cold",
+    "status": "approved",
+    "approved_by": 3,
+    "approved_at": "2024-09-19T10:30:00Z"
+  },
+  {
+    "leave_id": 3,
+    "emp_id": 6,
+    "leave_type_id": 3,
+    "start_date": "2024-10-20",
+    "end_date": "2024-10-24",
+    "days": 5,
+    "reason": "Family vacation",
+    "status": "pending",
+    "approved_by": null,
+    "approved_at": null
+  },
+  {
+    "leave_id": 4,
+    "emp_id": 8,
+    "leave_type_id": 1,
+    "start_date": "2024-09-10",
+    "end_date": "2024-09-11",
+    "days": 2,
+    "reason": "Wedding to attend",
+    "status": "approved",
+    "approved_by": 3,
+    "approved_at": "2024-09-08T14:20:00Z"
+  }
+]

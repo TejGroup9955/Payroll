@@ -1,0 +1,46 @@
+[
+  {
+    "expense_id": 1,
+    "emp_id": 4,
+    "category": "Travel",
+    "amount": 2500,
+    "date": "2024-09-15",
+    "description": "Client meeting in Pune - cab fare",
+    "receipt_path": "receipts/4/receipt_001.pdf",
+    "status": "approved",
+    "approved_by": 3
+  },
+  {
+    "expense_id": 2,
+    "emp_id": 4,
+    "category": "Food",
+    "amount": 850,
+    "date": "2024-09-15",
+    "description": "Client lunch meeting",
+    "receipt_path": "receipts/4/receipt_002.pdf",
+    "status": "reimbursed",
+    "approved_by": 3
+  },
+  {
+    "expense_id": 3,
+    "emp_id": 5,
+    "category": "Office Supplies",
+    "amount": 1200,
+    "date": "2024-10-01",
+    "description": "Laptop accessories and stationery",
+    "receipt_path": "receipts/5/receipt_003.pdf",
+    "status": "pending",
+    "approved_by": null
+  },
+  {
+    "expense_id": 4,
+    "emp_id": 6,
+    "category": "Travel",
+    "amount": 4500,
+    "date": "2024-09-20",
+    "description": "Business trip to Delhi - hotel and transport",
+    "receipt_path": "receipts/6/receipt_004.pdf",
+    "status": "approved",
+    "approved_by": 2
+  }
+]

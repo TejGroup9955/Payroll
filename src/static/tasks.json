@@ -1,0 +1,52 @@
+[
+  {
+    "task_id": 1,
+    "title": "Review Q3 performance reports",
+    "description": "Review and provide feedback on Q3 KRA reports for team members",
+    "assigned_to": 3,
+    "assigned_by": 1,
+    "due_date": "2024-10-10",
+    "priority": "high",
+    "status": "in_progress"
+  },
+  {
+    "task_id": 2,
+    "title": "Update employee handbook",
+    "description": "Update the employee handbook with new policies",
+    "assigned_to": 2,
+    "assigned_by": 1,
+    "due_date": "2024-10-15",
+    "priority": "medium",
+    "status": "pending"
+  },
+  {
+    "task_id": 3,
+    "title": "Prepare salary revision proposal",
+    "description": "Prepare annual salary revision proposal for management approval",
+    "assigned_to": 2,
+    "assigned_by": 1,
+    "due_date": "2024-10-20",
+    "priority": "high",
+    "status": "pending"
+  },
+  {
+    "task_id": 4,
+    "title": "Code review for authentication module",
+    "description": "Review pull request for new authentication implementation",
+    "assigned_to": 4,
+    "assigned_by": 3,
+    "due_date": "2024-10-05",
+    "priority": "high",
+    "status": "completed"
+  },
+  {
+    "task_id": 5,
+    "title": "Documentation for API endpoints",
+    "description": "Write comprehensive documentation for all REST API endpoints",
+    "assigned_to": 5,
+    "assigned_by": 3,
+    "due_date": "2024-10-12",
+    "priority": "medium",
+    "status": "in_progress"
+  }
+]

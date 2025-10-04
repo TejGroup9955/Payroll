@@ -1,0 +1,46 @@
+[
+  {
+    "lead_id": 1,
+    "name": "Acme Corporation",
+    "email": "contact@acmecorp.com",
+    "phone": "+91-11-12345678",
+    "company": "Acme Corp",
+    "source": "Website",
+    "assigned_to": 6,
+    "status": "qualified",
+    "created_at": "2024-09-15T10:30:00Z"
+  },
+  {
+    "lead_id": 2,
+    "name": "Global Industries",
+    "email": "info@globalind.com",
+    "phone": "+91-22-87654321",
+    "company": "Global Industries Ltd",
+    "source": "Referral",
+    "assigned_to": 6,
+    "status": "contacted",
+    "created_at": "2024-09-20T14:20:00Z"
+  },
+  {
+    "lead_id": 3,
+    "name": "Tech Innovations",
+    "email": "sales@techinno.com",
+    "phone": "+91-80-55667788",
+    "company": "Tech Innovations Pvt Ltd",
+    "source": "Trade Show",
+    "assigned_to": 9,
+    "status": "new",
+    "created_at": "2024-10-01T09:00:00Z"
+  },
+  {
+    "lead_id": 4,
+    "name": "Smart Solutions",
+    "email": "hello@smartsol.com",
+    "phone": "+91-44-99887766",
+    "company": "Smart Solutions Inc",
+    "source": "LinkedIn",
+    "assigned_to": 9,
+    "status": "converted",
+    "created_at": "2024-08-10T11:15:00Z"
+  }
+]

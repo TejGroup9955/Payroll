@@ -1,0 +1,81 @@
+[
+  {
+    "role_id": 1,
+    "name": "Super Admin",
+    "permissions": {
+      "employee": { "view": true, "create": true, "edit": true, "delete": true },
+      "payroll": { "view": true, "create": true, "edit": true, "delete": true },
+      "attendance": { "view": true, "create": true, "edit": true, "delete": true, "approve": true },
+      "leave": { "view": true, "create": true, "edit": true, "delete": true, "approve": true },
+      "document": { "view": true, "create": true, "edit": true, "delete": true },
+      "reporting": { "view": true, "create": true, "export": true },
+      "kra": { "view": true, "create": true, "edit": true, "approve": true },
+      "user_management": { "view": true, "create": true, "edit": true, "delete": true },
+      "company": { "view": true, "create": true, "edit": true, "delete": true },
+      "expense": { "view": true, "approve": true },
+      "task": { "view": true, "create": true, "edit": true },
+      "crm": { "view": true, "create": true, "edit": true },
+      "asset": { "view": true, "create": true, "edit": true }
+    }
+  },
+  {
+    "role_id": 2,
+    "name": "Admin",
+    "permissions": {
+      "employee": { "view": true, "create": true, "edit": true, "delete": true },
+      "payroll": { "view": true, "create": true, "edit": true, "delete": true },
+      "attendance": { "view": true, "create": true, "edit": true, "approve": true },
+      "leave": { "view": true, "create": true, "edit": true, "approve": true },
+      "document": { "view": true, "create": true, "edit": true },
+      "reporting": { "view": true, "create": true, "export": true },
+      "kra": { "view": true, "create": true, "edit": true, "approve": true },
+      "user_management": { "view": true, "create": true, "edit": true },
+      "company": { "view": true, "edit": true },
+      "expense": { "view": true, "approve": true },
+      "task": { "view": true, "create": true, "edit": true },
+      "crm": { "view": true, "create": true, "edit": true },
+      "asset": { "view": true, "create": true, "edit": true }
+    }
+  },
+  {
+    "role_id": 3,
+    "name": "HR",
+    "permissions": {
+      "employee": { "view": true, "create": true, "edit": true },
+      "payroll": { "view": true, "edit": true },
+      "attendance": { "view": true, "edit": true, "approve": true },
+      "leave": { "view": true, "approve": true },
+      "document": { "view": true, "create": true, "edit": true },
+      "reporting": { "view": true, "create": true, "export": true },
+      "kra": { "view": true },
+      "expense": { "view": true, "approve": true },
+      "asset": { "view": true, "create": true, "edit": true }
+    }
+  },
+  {
+    "role_id": 4,
+    "name": "HOD",
+    "permissions": {
+      "employee": { "view": true },
+      "attendance": { "view": true },
+      "leave": { "view": true, "approve": true },
+      "kra": { "view": true, "approve": true },
+      "reporting": { "view": true },
+      "task": { "view": true, "create": true, "edit": true }
+    }
+  },
+  {
+    "role_id": 5,
+    "name": "User",
+    "permissions": {
+      "employee": { "view": true },
+      "payroll": { "view": true },
+      "attendance": { "view": true, "create": true },
+      "leave": { "view": true, "create": true },
+      "document": { "view": true, "create": true },
+      "kra": { "view": true },
+      "expense": { "view": true, "create": true },
+      "task": { "view": true }
+    }
+  }
+]

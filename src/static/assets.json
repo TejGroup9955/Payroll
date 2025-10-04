@@ -1,0 +1,52 @@
+[
+  {
+    "asset_id": 1,
+    "name": "Dell Latitude 7420",
+    "category": "Laptop",
+    "serial_number": "DL7420-001234",
+    "assigned_to": 4,
+    "purchase_date": "2021-02-01",
+    "warranty_expiry": "2024-02-01",
+    "status": "assigned"
+  },
+  {
+    "asset_id": 2,
+    "name": "HP Laptop",
+    "category": "Laptop",
+    "serial_number": "HP-567890",
+    "assigned_to": 5,
+    "purchase_date": "2022-05-15",
+    "warranty_expiry": "2025-05-15",
+    "status": "assigned"
+  },
+  {
+    "asset_id": 3,
+    "name": "iPhone 13",
+    "category": "Mobile Phone",
+    "serial_number": "IP13-789012",
+    "assigned_to": 3,
+    "purchase_date": "2022-01-10",
+    "warranty_expiry": "2024-01-10",
+    "status": "assigned"
+  },
+  {
+    "asset_id": 4,
+    "name": "Samsung Monitor 27 inch",
+    "category": "Monitor",
+    "serial_number": "SM27-345678",
+    "assigned_to": null,
+    "purchase_date": "2023-03-20",
+    "warranty_expiry": "2026-03-20",
+    "status": "available"
+  },
+  {
+    "asset_id": 5,
+    "name": "MacBook Pro M2",
+    "category": "Laptop",
+    "serial_number": "MBP-901234",
+    "assigned_to": 1,
+    "purchase_date": "2023-06-01",
+    "warranty_expiry": "2026-06-01",
+    "status": "assigned"
+  }
+]

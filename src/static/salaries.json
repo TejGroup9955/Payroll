@@ -1,0 +1,98 @@
+[
+  {
+    "salary_id": 1,
+    "emp_id": 1,
+    "month": "2024-09",
+    "year": 2024,
+    "gross_salary": 100000,
+    "deductions": {
+      "pf": 7200,
+      "esi": 1800,
+      "tax": 5000,
+      "other": 0
+    },
+    "net_salary": 86000,
+    "payment_status": "paid",
+    "payment_date": "2024-10-01"
+  },
+  {
+    "salary_id": 2,
+    "emp_id": 2,
+    "month": "2024-09",
+    "year": 2024,
+    "gross_salary": 80000,
+    "deductions": {
+      "pf": 6000,
+      "esi": 1440,
+      "tax": 3500,
+      "other": 0
+    },
+    "net_salary": 69060,
+    "payment_status": "paid",
+    "payment_date": "2024-10-01"
+  },
+  {
+    "salary_id": 3,
+    "emp_id": 3,
+    "month": "2024-09",
+    "year": 2024,
+    "gross_salary": 90000,
+    "deductions": {
+      "pf": 6600,
+      "esi": 1620,
+      "tax": 4200,
+      "other": 0
+    },
+    "net_salary": 77580,
+    "payment_status": "paid",
+    "payment_date": "2024-10-01"
+  },
+  {
+    "salary_id": 4,
+    "emp_id": 4,
+    "month": "2024-09",
+    "year": 2024,
+    "gross_salary": 75000,
+    "deductions": {
+      "pf": 5400,
+      "esi": 1350,
+      "tax": 3000,
+      "other": 0
+    },
+    "net_salary": 65250,
+    "payment_status": "paid",
+    "payment_date": "2024-10-01"
+  },
+  {
+    "salary_id": 5,
+    "emp_id": 5,
+    "month": "2024-09",
+    "year": 2024,
+    "gross_salary": 60000,
+    "deductions": {
+      "pf": 4200,
+      "esi": 1080,
+      "tax": 2000,
+      "other": 0
+    },
+    "net_salary": 52720,
+    "payment_status": "paid",
+    "payment_date": "2024-10-01"
+  },
+  {
+    "salary_id": 6,
+    "emp_id": 4,
+    "month": "2024-10",
+    "year": 2024,
+    "gross_salary": 75000,
+    "deductions": {
+      "pf": 5400,
+      "esi": 1350,
+      "tax": 3000,
+      "other": 0
+    },
+    "net_salary": 65250,
+    "payment_status": "processed",
+    "payment_date": null
+  }
+]

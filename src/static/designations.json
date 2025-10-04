@@ -1,0 +1,37 @@
+[
+  {
+    "designation_id": 1,
+    "company_id": 1,
+    "name": "Senior Manager",
+    "level": 5,
+    "status": "active"
+  },
+  {
+    "designation_id": 2,
+    "company_id": 1,
+    "name": "Manager",
+    "level": 4,
+    "status": "active"
+  },
+  {
+    "designation_id": 3,
+    "company_id": 1,
+    "name": "Team Lead",
+    "level": 3,
+    "status": "active"
+  },
+  {
+    "designation_id": 4,
+    "company_id": 1,
+    "name": "Senior Software Engineer",
+    "level": 2,
+    "status": "active"
+  },
+  {
+    "designation_id": 5,
+    "company_id": 1,
+    "name": "Software Engineer",
+    "level": 1,
+    "status": "active"
+  }
+]

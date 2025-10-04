@@ -1,0 +1,26 @@
+[
+  {
+    "company_id": 1,
+    "name": "Tech Solutions Pvt Ltd",
+    "address": "123 Business Park, Mumbai, Maharashtra 400001",
+    "contact_email": "info@techsolutions.com",
+    "contact_phone": "+91-22-12345678",
+    "pan_number": "AAACT1234A",
+    "tan_number": "MUMT12345A",
+    "pf_number": "MUMUM1234567890",
+    "esi_number": "31001234567890",
+    "status": "active"
+  },
+  {
+    "company_id": 2,
+    "name": "Digital Services Ltd",
+    "address": "456 Tech Hub, Bangalore, Karnataka 560001",
+    "contact_email": "contact@digitalservices.com",
+    "contact_phone": "+91-80-87654321",
+    "pan_number": "AAADS5678B",
+    "tan_number": "BLRT56789B",
+    "pf_number": "KARBN5678901234",
+    "esi_number": "29005678901234",
+    "status": "active"
+  }
+]

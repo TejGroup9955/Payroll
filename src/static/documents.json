@@ -1,0 +1,42 @@
+[
+  {
+    "doc_id": 1,
+    "emp_id": 4,
+    "doc_type_id": 1,
+    "file_name": "Sneha_Reddy_Resume.pdf",
+    "s3_path": "documents/employees/4/Sneha_Reddy_Resume.pdf",
+    "uploaded_by": 4,
+    "uploaded_at": "2024-02-01T09:00:00Z",
+    "status": "active"
+  },
+  {
+    "doc_id": 2,
+    "emp_id": 4,
+    "doc_type_id": 2,
+    "file_name": "Aadhar_Card.pdf",
+    "s3_path": "documents/employees/4/Aadhar_Card.pdf",
+    "uploaded_by": 4,
+    "uploaded_at": "2024-02-01T09:15:00Z",
+    "status": "active"
+  },
+  {
+    "doc_id": 3,
+    "emp_id": 4,
+    "doc_type_id": 3,
+    "file_name": "PAN_Card.pdf",
+    "s3_path": "documents/employees/4/PAN_Card.pdf",
+    "uploaded_by": 4,
+    "uploaded_at": "2024-02-01T09:20:00Z",
+    "status": "active"
+  },
+  {
+    "doc_id": 4,
+    "emp_id": 5,
+    "doc_type_id": 1,
+    "file_name": "Vikram_Singh_Resume.pdf",
+    "s3_path": "documents/employees/5/Vikram_Singh_Resume.pdf",
+    "uploaded_by": 5,
+    "uploaded_at": "2024-05-15T10:00:00Z",
+    "status": "active"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "kra_id": 1,
+    "emp_id": 4,
+    "quarter": "Q3",
+    "year": 2024,
+    "goals": [
+      {
+        "goal_id": 1,
+        "description": "Complete microservices migration project",
+        "target": "100%",
+        "achievement": "85%",
+        "score": 4.2
+      },
+      {
+        "goal_id": 2,
+        "description": "Reduce application load time by 30%",
+        "target": "30%",
+        "achievement": "35%",
+        "score": 5
+      },
+      {
+        "goal_id": 3,
+        "description": "Mentor 2 junior developers",
+        "target": "2 developers",
+        "achievement": "2 developers",
+        "score": 5
+      }
+    ],
+    "status": "approved",
+    "approved_by": 3,
+    "approved_at": "2024-10-01T15:30:00Z"
+  },
+  {
+    "kra_id": 2,
+    "emp_id": 5,
+    "quarter": "Q3",
+    "year": 2024,
+    "goals": [
+      {
+        "goal_id": 4,
+        "description": "Implement authentication module",
+        "target": "100%",
+        "achievement": "100%",
+        "score": 5
+      },
+      {
+        "goal_id": 5,
+        "description": "Write unit tests for 80% code coverage",
+        "target": "80%",
+        "achievement": "75%",
+        "score": 4
+      }
+    ],
+    "status": "approved",
+    "approved_by": 3,
+    "approved_at": "2024-10-02T11:00:00Z"
+  },
+  {
+    "kra_id": 3,
+    "emp_id": 4,
+    "quarter": "Q4",
+    "year": 2024,
+    "goals": [
+      {
+        "goal_id": 6,
+        "description": "Lead API redesign initiative",
+        "target": "100%",
+        "achievement": "20%",
+        "score": null
+      },
+      {
+        "goal_id": 7,
+        "description": "Improve code review turnaround time",
+        "target": "< 24 hours",
+        "achievement": "In progress",
+        "score": null
+      }
+    ],
+    "status": "submitted",
+    "approved_by": null,
+    "approved_at": null
+  }
+]
