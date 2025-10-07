@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Search, Filter, Plus, Download, Mail, Phone, MoreVertical, Edit, Trash2, Eye } from 'lucide-react';
+import { Search, Filter, Plus, Download, Mail, Phone, MoreVertical, CreditCard as Edit, Trash2, Eye } from 'lucide-react';
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
 
 // Mock data
